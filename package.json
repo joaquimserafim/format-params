@@ -1,6 +1,6 @@
 {
   "name": "format-params",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a simple way to format params for an http request",
   "main": "index.js",
   "files": [
@@ -31,10 +31,10 @@
   "homepage": "https://github.com/joaquimserafim/soft-method-override#readme",
   "devDependencies": {
     "coveralls": "^2.13.1",
-    "nyc": "^10.3.2",
+    "nyc": "^11.0.3",
     "pre-commit": "^1.2.2",
     "standard": "^10.0.2",
-    "tape": "^4.6.3"
+    "tape": "^4.7.0"
   },
   "engines": {
     "node": ">=6"
