@@ -1,6 +1,6 @@
 {
   "name": "format-params",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "a simple way to format params for an http request",
   "main": "index.js",
   "files": [
@@ -47,5 +47,9 @@
   "pre-commit": [
     "test",
     "coverage:check"
-  ]
+  ],
+  "dependencies": {
+    "is.object": "^1.0.0",
+    "object.size": "^1.0.0"
+  }
 }
