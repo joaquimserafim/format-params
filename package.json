@@ -1,6 +1,6 @@
 {
   "name": "format-params",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "a simple way to format params for an http request",
   "main": "index.js",
   "files": [
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joaquimserafim/soft-method-override.git"
+    "url": "git+https://github.com/joaquimserafim/format-params.git"
   },
   "keywords": [
     "http",
@@ -26,9 +26,9 @@
   "author": "@JoaquimSerafim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joaquimserafim/soft-method-override/issues"
+    "url": "https://github.com/joaquimserafim/format-params/issues"
   },
-  "homepage": "https://github.com/joaquimserafim/soft-method-override#readme",
+  "homepage": "https://github.com/joaquimserafim/format-params#readme",
   "devDependencies": {
     "coveralls": "^2.13.1",
     "nyc": "^11.0.3",
